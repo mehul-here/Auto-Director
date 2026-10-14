@@ -1,0 +1,6 @@
+# Optional; install only if you intend to run local image generation.
+diffusers>=0.30
+transformers>=4.41
+accelerate>=0.31
+torch>=2.2
+safetensors>=0.4
